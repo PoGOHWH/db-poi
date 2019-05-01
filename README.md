@@ -27,6 +27,6 @@ If you would like to contribute updates and additions:
 
 ## Credits
 
-It's all SS, baby! You know who that is 🤴
+It's all [SS](https://github.com/SSgithub333), baby! You know who that is 🤴
 
 (And anyone else whose commits are in the repository, you helped too!)
