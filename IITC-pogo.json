@@ -1701,12 +1701,6 @@
       "lng": 88.472102,
       "name": "Vivekananda Nagar Sishu Udyan"
     },
-    "a0f44534410b4eb9a266294c82b9bcb6.12": {
-      "guid": "a0f44534410b4eb9a266294c82b9bcb6.12",
-      "lat": 22.54535,
-      "lng": 88.342652,
-      "name": "Victoria Memorial Hall"
-    },
     "a1203f44f96548d687edf3ebf2d20569.16": {
       "guid": "a1203f44f96548d687edf3ebf2d20569.16",
       "lat": 22.648357,
@@ -1791,6 +1785,13 @@
       "lat": 22.491602,
       "lng": 88.349058,
       "name": "Santigarh Temple"
+    },
+    "a9a5249a5d814ba59c9f804bc301cc98.12": {
+      "guid": "a9a5249a5d814ba59c9f804bc301cc98.12",
+      "isEx": true,
+      "lat": 22.545736,
+      "lng": 88.342566,
+      "name": "Victoria Memorial"
     },
     "aa7f540bd6e344199dffb11ba81dc73f.16": {
       "guid": "aa7f540bd6e344199dffb11ba81dc73f.16",
@@ -2649,11 +2650,11 @@
       "lng": 88.339393,
       "name": "Lilua Station "
     },
-    "a9a5249a5d814ba59c9f804bc301cc98.12": {
-      "guid": "a9a5249a5d814ba59c9f804bc301cc98.12",
-      "lat": 22.545736,
-      "lng": 88.342566,
-      "name": "Victoria Memorial"
+    "a0f44534410b4eb9a266294c82b9bcb6.12": {
+      "guid": "a0f44534410b4eb9a266294c82b9bcb6.12",
+      "lat": 22.54535,
+      "lng": 88.342652,
+      "name": "Victoria Memorial Hall"
     },
     "c7d5c1c8d87d42cdb03120a390e0e3f3.11": {
       "guid": "c7d5c1c8d87d42cdb03120a390e0e3f3.11",
