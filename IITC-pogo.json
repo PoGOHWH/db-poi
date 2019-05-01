@@ -16,7 +16,7 @@
             "guid": "018e1ea478dd4bd2aa4546d7d4755d7a.16",
             "lat": 22.556444,
             "lng": 88.314817,
-            "name": "Shalimar Railway Platform"
+            "name": "Shalimar Railway Station "
         },
         "01b73266652a41a6a4ae39f49eadfce8.16": {
             "guid": "01b73266652a41a6a4ae39f49eadfce8.16",
@@ -257,12 +257,6 @@
             "lng": 88.352397,
             "name": "Saifee Masjid"
         },
-        "1773ab9d9aa24ebba63509014ed5d7f0.16": {
-            "guid": "1773ab9d9aa24ebba63509014ed5d7f0.16",
-            "lat": 22.569195,
-            "lng": 88.420959,
-            "name": "MIG-21 Replica Statue"
-        },
         "180e1c2da82d45c399c7b01c800e405c.16": {
             "guid": "180e1c2da82d45c399c7b01c800e405c.16",
             "lat": 22.539545,
@@ -350,7 +344,6 @@
         },
         "1d31e4e3c0134d019e2eaa2754eb09d8.16": {
             "guid": "1d31e4e3c0134d019e2eaa2754eb09d8.16",
-            "isEx": true,
             "lat": 22.546857,
             "lng": 88.347467,
             "name": "ITC Park Graffiti"
@@ -677,7 +670,6 @@
         },
         "3851a213111e4597bb48138845e5e1bc.16": {
             "guid": "3851a213111e4597bb48138845e5e1bc.16",
-            "isEx": true,
             "lat": 22.602662,
             "lng": 88.468488,
             "name": "The Sitafal Bin"
@@ -745,7 +737,6 @@
         },
         "3d0ee6bad2e041fb819a85aefca2b61a.16": {
             "guid": "3d0ee6bad2e041fb819a85aefca2b61a.16",
-            "isEx": true,
             "lat": 22.607428,
             "lng": 88.467249,
             "name": "Masks Of Countries"
@@ -783,7 +774,6 @@
         },
         "4318ae83ed424c838542af7ad9c8e99a.16": {
             "guid": "4318ae83ed424c838542af7ad9c8e99a.16",
-            "isEx": true,
             "lat": 22.555337,
             "lng": 88.33116,
             "name": "James Princep Memorial"
@@ -940,7 +930,6 @@
         },
         "50d714bf20f3499c8136ae832fe972ac.16": {
             "guid": "50d714bf20f3499c8136ae832fe972ac.16",
-            "isEx": true,
             "lat": 22.547182,
             "lng": 88.342932,
             "name": "Royal Lions"
@@ -1046,6 +1035,12 @@
             "lat": 22.594989,
             "lng": 88.472415,
             "name": "Eco Park Murals"
+        },
+        "59183dcb8252434c93c0fe94fa33e5b6.16": {
+            "guid": "59183dcb8252434c93c0fe94fa33e5b6.16",
+            "lat": 22.563556,
+            "lng": 88.351245,
+            "name": "Clock Tower"
         },
         "59ca3ea46075465c95c7ac7504466e41.16": {
             "guid": "59ca3ea46075465c95c7ac7504466e41.16",
@@ -1246,6 +1241,12 @@
             "lng": 88.369455,
             "name": "Jadavpur University Gate 4"
         },
+        "714127cbe9fd43eaaa1252b532b70ec6.12": {
+            "guid": "714127cbe9fd43eaaa1252b532b70ec6.12",
+            "lat": 22.54415,
+            "lng": 88.342427,
+            "name": "Victoria Memorial Lord Curzon Statue"
+        },
         "71e3d37996a14effbc075c3241997076.16": {
             "guid": "71e3d37996a14effbc075c3241997076.16",
             "lat": 22.602412,
@@ -1320,7 +1321,6 @@
         },
         "7a72d20a00154759b29458edecd9f93c.16": {
             "guid": "7a72d20a00154759b29458edecd9f93c.16",
-            "isEx": true,
             "lat": 22.547297,
             "lng": 88.34339,
             "name": "The Pillar of Faith"
@@ -1402,7 +1402,6 @@
         },
         "83a4c861675e4ac1afcd4cc6e2563167.16": {
             "guid": "83a4c861675e4ac1afcd4cc6e2563167.16",
-            "isEx": true,
             "lat": 22.545547,
             "lng": 88.347034,
             "name": "M P Birla Planetorium"
@@ -1412,12 +1411,6 @@
             "lat": 22.496918,
             "lng": 88.360882,
             "name": "Radhagobind Temple "
-        },
-        "8687679117c94ccfb176cc05841f7788.16": {
-            "guid": "8687679117c94ccfb176cc05841f7788.16",
-            "lat": 22.544435,
-            "lng": 88.342477,
-            "name": "Victoria Memorial Park"
         },
         "87a4ab62383740e68932712f406b1194.16": {
             "guid": "87a4ab62383740e68932712f406b1194.16",
@@ -1600,12 +1593,6 @@
             "lng": 88.434686,
             "name": "Adi Yogi Shiv Mandir"
         },
-        "96ab0723f4ec4e84a5f4708d63ded39a.16": {
-            "guid": "96ab0723f4ec4e84a5f4708d63ded39a.16",
-            "lat": 22.607438,
-            "lng": 88.475545,
-            "name": "Roadside Artwork "
-        },
         "97fe3cf3c4f74fccad0ce2ed46e3fd3d.16": {
             "guid": "97fe3cf3c4f74fccad0ce2ed46e3fd3d.16",
             "lat": 22.569735,
@@ -1702,6 +1689,12 @@
             "lng": 88.472102,
             "name": "Vivekananda Nagar Sishu Udyan"
         },
+        "a0f44534410b4eb9a266294c82b9bcb6.12": {
+            "guid": "a0f44534410b4eb9a266294c82b9bcb6.12",
+            "lat": 22.54535,
+            "lng": 88.342652,
+            "name": "Victoria Memorial Hall"
+        },
         "a1203f44f96548d687edf3ebf2d20569.16": {
             "guid": "a1203f44f96548d687edf3ebf2d20569.16",
             "lat": 22.648357,
@@ -1734,7 +1727,6 @@
         },
         "a52d55e6af3949ae9d722ce63102028a.16": {
             "guid": "a52d55e6af3949ae9d722ce63102028a.16",
-            "isEx": true,
             "lat": 22.599327,
             "lng": 88.470729,
             "name": "Running Coach At Eco Park "
@@ -1748,7 +1740,6 @@
         },
         "a68081ddefaf434ba05c1bb33c195d55.16": {
             "guid": "a68081ddefaf434ba05c1bb33c195d55.16",
-            "isEx": true,
             "lat": 22.605403,
             "lng": 88.467927,
             "name": "Center Of Adda Zone"
@@ -1788,13 +1779,6 @@
             "lat": 22.491602,
             "lng": 88.349058,
             "name": "Santigarh Temple"
-        },
-        "a9a5249a5d814ba59c9f804bc301cc98.12": {
-            "guid": "a9a5249a5d814ba59c9f804bc301cc98.12",
-            "isEx": true,
-            "lat": 22.545736,
-            "lng": 88.342566,
-            "name": "Victoria Memorial"
         },
         "aa7f540bd6e344199dffb11ba81dc73f.16": {
             "guid": "aa7f540bd6e344199dffb11ba81dc73f.16",
@@ -2273,7 +2257,6 @@
         },
         "d75bfa7bd78943eab9f6237e93ca157c.16": {
             "guid": "d75bfa7bd78943eab9f6237e93ca157c.16",
-            "isEx": true,
             "lat": 22.592446,
             "lng": 88.327771,
             "name": "Narasinha Dutt College "
@@ -2298,7 +2281,6 @@
         },
         "daab1ddeb4c345be9e0eb5104b21cce7.16": {
             "guid": "daab1ddeb4c345be9e0eb5104b21cce7.16",
-            "isEx": true,
             "lat": 22.542261,
             "lng": 88.345402,
             "name": "NANDAN West Bengal Film Centre"
@@ -2329,7 +2311,6 @@
         },
         "df50296191da491ba9a09368c8590869.16": {
             "guid": "df50296191da491ba9a09368c8590869.16",
-            "isEx": true,
             "lat": 22.554948,
             "lng": 88.349772,
             "name": "Pandit Nerhu Memorial"
@@ -2588,7 +2569,6 @@
         },
         "fc44f7bb5cbb4302a7b8a336eda86eab.16": {
             "guid": "fc44f7bb5cbb4302a7b8a336eda86eab.16",
-            "isEx": true,
             "lat": 22.563119,
             "lng": 88.347668,
             "name": "Shaheed Matengini Hajra"
@@ -2613,7 +2593,6 @@
         },
         "ff67dcf5b751435fb7239525981e7f5e.16": {
             "guid": "ff67dcf5b751435fb7239525981e7f5e.16",
-            "isEx": true,
             "lat": 22.571646,
             "lng": 88.421118,
             "name": "Nicco Park Water Fountain"
@@ -2634,17 +2613,59 @@
     "ignoredCellsExtraGyms": {},
     "ignoredCellsMissingGyms": {},
     "notpogo": {
+        "0924f843586242359913b949c23e3f37.16": {
+            "guid": "0924f843586242359913b949c23e3f37.16",
+            "lat": 22.571337,
+            "lng": 88.42116,
+            "name": "Marble Knight"
+        },
+        "0ae3478882a04f11aef51b1032ae118c.16": {
+            "guid": "0ae3478882a04f11aef51b1032ae118c.16",
+            "lat": 22.544957,
+            "lng": 88.346481,
+            "name": "Church Cross"
+        },
+        "615f1e0dcd594edbbe71a817746e77e7.16": {
+            "guid": "615f1e0dcd594edbbe71a817746e77e7.16",
+            "lat": 22.564179,
+            "lng": 88.34924,
+            "name": "Stormy Petrel"
+        },
         "9887cf0dd78c48e5924567d4f9d04bd3.16": {
             "guid": "9887cf0dd78c48e5924567d4f9d04bd3.16",
             "lat": 22.620922,
             "lng": 88.339393,
             "name": "Lilua Station "
         },
+        "a9a5249a5d814ba59c9f804bc301cc98.12": {
+            "guid": "a9a5249a5d814ba59c9f804bc301cc98.12",
+            "lat": 22.545736,
+            "lng": 88.342566,
+            "name": "Victoria Memorial"
+        },
+        "c7d5c1c8d87d42cdb03120a390e0e3f3.11": {
+            "guid": "c7d5c1c8d87d42cdb03120a390e0e3f3.11",
+            "lat": 22.56449,
+            "lng": 88.296315,
+            "name": "Swami Vivekananda Statue"
+        },
         "ca59c27eca7a47edac7d18e8ec345242.16": {
             "guid": "ca59c27eca7a47edac7d18e8ec345242.16",
             "lat": 22.704235,
             "lng": 88.346952,
             "name": "Shakuntala Kali Temple"
+        },
+        "d7d0cc6fc66145cda1cb5e1b81d27bd0.16": {
+            "guid": "d7d0cc6fc66145cda1cb5e1b81d27bd0.16",
+            "lat": 22.539244,
+            "lng": 88.346984,
+            "name": "The Fifth Element "
+        },
+        "f539a9efa88848a3a057a759c81b0caa.16": {
+            "guid": "f539a9efa88848a3a057a759c81b0caa.16",
+            "lat": 22.546795,
+            "lng": 88.347716,
+            "name": "ITC Park Entrance"
         }
     },
     "pokestops": {
@@ -3106,8 +3127,8 @@
         },
         "12d0880193dc4011ab6a9ef9d7c85993.16": {
             "guid": "12d0880193dc4011ab6a9ef9d7c85993.16",
-            "lat": 22.554266,
-            "lng": 88.316089,
+            "lat": 22.556371,
+            "lng": 88.316695,
             "name": "Shalimar Railway Station "
         },
         "1356f47201dc490aaf357ff7b1c95d75.16": {
@@ -3235,6 +3256,12 @@
             "lat": 22.689646,
             "lng": 88.459699,
             "name": "New Boys Club "
+        },
+        "1773ab9d9aa24ebba63509014ed5d7f0.16": {
+            "guid": "1773ab9d9aa24ebba63509014ed5d7f0.16",
+            "lat": 22.569195,
+            "lng": 88.420959,
+            "name": "MIG-21 Replica Statue"
         },
         "17984f6a25f94dac9d5e19cec9e42344.16": {
             "guid": "17984f6a25f94dac9d5e19cec9e42344.16",
@@ -3919,6 +3946,12 @@
             "lat": 22.541941,
             "lng": 88.346147,
             "name": "Shishir Mancha"
+        },
+        "2bc0957eafa744e9a80de7a52e2a4c06.16": {
+            "guid": "2bc0957eafa744e9a80de7a52e2a4c06.16",
+            "lat": 22.575424,
+            "lng": 88.239442,
+            "name": "Andul Railway Station"
         },
         "2bd4948e88144f6bba017c22fb721fc6.16": {
             "guid": "2bd4948e88144f6bba017c22fb721fc6.16",
@@ -5240,12 +5273,6 @@
             "lng": 88.348193,
             "name": "Dhak Panchami Portal"
         },
-        "59183dcb8252434c93c0fe94fa33e5b6.16": {
-            "guid": "59183dcb8252434c93c0fe94fa33e5b6.16",
-            "lat": 22.563556,
-            "lng": 88.351245,
-            "name": "Clock Tower"
-        },
         "59245ef27da94437a03c510fa7f37707.16": {
             "guid": "59245ef27da94437a03c510fa7f37707.16",
             "lat": 22.54072,
@@ -5966,12 +5993,6 @@
             "lng": 88.285453,
             "name": "Tank Near Santragachi Bus Stop"
         },
-        "714127cbe9fd43eaaa1252b532b70ec6.12": {
-            "guid": "714127cbe9fd43eaaa1252b532b70ec6.12",
-            "lat": 22.54415,
-            "lng": 88.342427,
-            "name": "Victoria Memorial Lord Curzon Statue"
-        },
         "7198c30efe0c44ce860bd53358b88ae3.16": {
             "guid": "7198c30efe0c44ce860bd53358b88ae3.16",
             "lat": 22.867958,
@@ -6608,6 +6629,12 @@
             "lng": 88.40797,
             "name": "Naughty Bheem"
         },
+        "8687679117c94ccfb176cc05841f7788.16": {
+            "guid": "8687679117c94ccfb176cc05841f7788.16",
+            "lat": 22.544435,
+            "lng": 88.342477,
+            "name": "Victoria Memorial Park"
+        },
         "8687a2cd01e948f88333ce7c5c6b5262.16": {
             "guid": "8687a2cd01e948f88333ce7c5c6b5262.16",
             "lat": 22.427128,
@@ -7123,6 +7150,12 @@
             "lat": 22.428815,
             "lng": 88.424553,
             "name": "Radha Krishna Mandir"
+        },
+        "96ab0723f4ec4e84a5f4708d63ded39a.16": {
+            "guid": "96ab0723f4ec4e84a5f4708d63ded39a.16",
+            "lat": 22.607438,
+            "lng": 88.475545,
+            "name": "Roadside Artwork "
         },
         "96ed4cd8a58149828b8e2f9f3b5f0799.16": {
             "guid": "96ed4cd8a58149828b8e2f9f3b5f0799.16",
