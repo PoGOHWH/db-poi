@@ -350,6 +350,7 @@
     },
     "1d31e4e3c0134d019e2eaa2754eb09d8.16": {
       "guid": "1d31e4e3c0134d019e2eaa2754eb09d8.16",
+      "isEx": true,
       "lat": 22.546857,
       "lng": 88.347467,
       "name": "ITC Park Graffiti"
@@ -676,6 +677,7 @@
     },
     "3851a213111e4597bb48138845e5e1bc.16": {
       "guid": "3851a213111e4597bb48138845e5e1bc.16",
+      "isEx": true,
       "lat": 22.602662,
       "lng": 88.468488,
       "name": "The Sitafal Bin"
@@ -743,6 +745,7 @@
     },
     "3d0ee6bad2e041fb819a85aefca2b61a.16": {
       "guid": "3d0ee6bad2e041fb819a85aefca2b61a.16",
+      "isEx": true,
       "lat": 22.607428,
       "lng": 88.467249,
       "name": "Masks Of Countries"
@@ -780,6 +783,7 @@
     },
     "4318ae83ed424c838542af7ad9c8e99a.16": {
       "guid": "4318ae83ed424c838542af7ad9c8e99a.16",
+      "isEx": true,
       "lat": 22.555337,
       "lng": 88.33116,
       "name": "James Princep Memorial"
@@ -936,6 +940,7 @@
     },
     "50d714bf20f3499c8136ae832fe972ac.16": {
       "guid": "50d714bf20f3499c8136ae832fe972ac.16",
+      "isEx": true,
       "lat": 22.547182,
       "lng": 88.342932,
       "name": "Royal Lions"
@@ -1327,6 +1332,7 @@
     },
     "7a72d20a00154759b29458edecd9f93c.16": {
       "guid": "7a72d20a00154759b29458edecd9f93c.16",
+      "isEx": true,
       "lat": 22.547297,
       "lng": 88.34339,
       "name": "The Pillar of Faith"
@@ -1408,6 +1414,7 @@
     },
     "83a4c861675e4ac1afcd4cc6e2563167.16": {
       "guid": "83a4c861675e4ac1afcd4cc6e2563167.16",
+      "isEx": true,
       "lat": 22.545547,
       "lng": 88.347034,
       "name": "M P Birla Planetorium"
@@ -1733,6 +1740,7 @@
     },
     "a52d55e6af3949ae9d722ce63102028a.16": {
       "guid": "a52d55e6af3949ae9d722ce63102028a.16",
+      "isEx": true,
       "lat": 22.599327,
       "lng": 88.470729,
       "name": "Running Coach At Eco Park "
@@ -1746,6 +1754,7 @@
     },
     "a68081ddefaf434ba05c1bb33c195d55.16": {
       "guid": "a68081ddefaf434ba05c1bb33c195d55.16",
+      "isEx": true,
       "lat": 22.605403,
       "lng": 88.467927,
       "name": "Center Of Adda Zone"
@@ -2270,6 +2279,7 @@
     },
     "d75bfa7bd78943eab9f6237e93ca157c.16": {
       "guid": "d75bfa7bd78943eab9f6237e93ca157c.16",
+      "isEx": true,
       "lat": 22.592446,
       "lng": 88.327771,
       "name": "Narasinha Dutt College "
@@ -2294,6 +2304,7 @@
     },
     "daab1ddeb4c345be9e0eb5104b21cce7.16": {
       "guid": "daab1ddeb4c345be9e0eb5104b21cce7.16",
+      "isEx": true,
       "lat": 22.542261,
       "lng": 88.345402,
       "name": "NANDAN West Bengal Film Centre"
@@ -2324,6 +2335,7 @@
     },
     "df50296191da491ba9a09368c8590869.16": {
       "guid": "df50296191da491ba9a09368c8590869.16",
+      "isEx": true,
       "lat": 22.554948,
       "lng": 88.349772,
       "name": "Pandit Nerhu Memorial"
@@ -2582,6 +2594,7 @@
     },
     "fc44f7bb5cbb4302a7b8a336eda86eab.16": {
       "guid": "fc44f7bb5cbb4302a7b8a336eda86eab.16",
+      "isEx": true,
       "lat": 22.563119,
       "lng": 88.347668,
       "name": "Shaheed Matengini Hajra"
@@ -2606,6 +2619,7 @@
     },
     "ff67dcf5b751435fb7239525981e7f5e.16": {
       "guid": "ff67dcf5b751435fb7239525981e7f5e.16",
+      "isEx": true,
       "lat": 22.571646,
       "lng": 88.421118,
       "name": "Nicco Park Water Fountain"
