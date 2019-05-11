@@ -1,0 +1,16 @@
+{
+  "name": "iitc-pogo-json",
+  "version": "2019.5.11",
+  "description": "A manually curated database marking all the RWP/Ingress PoI in and around Kolkata for their use in Pokémon GO. Courtesy of the magnificient 👑SS👑!",
+  "scripts": {
+    "geojsonify": "node geojsonify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoGOHWH/iitc-pogo-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PoGOHWH/iitc-pogo-json/issues"
+  },
+  "homepage": "https://github.com/PoGOHWH/iitc-pogo-json#readme"
+}
