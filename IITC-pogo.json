@@ -2423,6 +2423,12 @@
       "lng": 88.347285,
       "name": "Swami Vivekanda Statue"
     },
+    "d50a00720c8d453584564269f715c7ed.16": {
+      "guid": "d50a00720c8d453584564269f715c7ed.16",
+      "lat": 22.514564,
+      "lng": 88.346373,
+      "name": "Bust Of Kavi Dijendra Lal Roy"
+    },
     "d529dcc23c1e40b18a1020b7b753bff8.16": {
       "guid": "d529dcc23c1e40b18a1020b7b753bff8.16",
       "lat": 22.491613,
@@ -3735,6 +3741,12 @@
       "lng": 88.416938,
       "name": "Overhead Water Tank"
     },
+    "203778c80ca243658c1e707f32f6fbf1.16": {
+      "guid": "203778c80ca243658c1e707f32f6fbf1.16",
+      "lat": 22.584325,
+      "lng": 88.282161,
+      "name": "Tank At Santragachi Station"
+    },
     "203ba805e34c4d2ab35258dc366d9a93.16": {
       "guid": "203ba805e34c4d2ab35258dc366d9a93.16",
       "lat": 22.700965,
@@ -3872,6 +3884,12 @@
       "lat": 22.482201,
       "lng": 88.373877,
       "name": "Vidyasagar Cultural Association"
+    },
+    "243ad568dfc84725905e765e64818211.16": {
+      "guid": "243ad568dfc84725905e765e64818211.16",
+      "lat": 22.562663,
+      "lng": 88.396977,
+      "name": "Mahatma Gandhi Mural "
     },
     "2449c1ebae2748209672f7d58f1e2877.16": {
       "guid": "2449c1ebae2748209672f7d58f1e2877.16",
@@ -5409,6 +5427,12 @@
       "lng": 88.440728,
       "name": "Fountain "
     },
+    "53996a0f44124697b9c5be1712cf0acd.16": {
+      "guid": "53996a0f44124697b9c5be1712cf0acd.16",
+      "lat": 22.927285,
+      "lng": 88.44161,
+      "name": "Kalitala temple halisahar"
+    },
     "5414f2b0564549e897b1f4919e27c96c.16": {
       "guid": "5414f2b0564549e897b1f4919e27c96c.16",
       "lat": 22.495932,
@@ -5696,6 +5720,12 @@
       "lat": 22.47548,
       "lng": 88.359298,
       "name": "Queen Peace Church "
+    },
+    "5bbcbd1b36744ea1b5167c750799357e.16": {
+      "guid": "5bbcbd1b36744ea1b5167c750799357e.16",
+      "lat": 22.511473,
+      "lng": 88.344399,
+      "name": "Shib Kali Temple"
     },
     "5bdcaece08a24c468d533d4479c531df.16": {
       "guid": "5bdcaece08a24c468d533d4479c531df.16",
@@ -8457,6 +8487,12 @@
       "lng": 88.336598,
       "name": "Shiva Linga"
     },
+    "b60d225b8e524e69bdf0d54df7cdb8a6.16": {
+      "guid": "b60d225b8e524e69bdf0d54df7cdb8a6.16",
+      "lat": 22.608731,
+      "lng": 88.390182,
+      "name": "Dutta Bagan Masjid"
+    },
     "b61b85249898476587b98996ba9dd154.16": {
       "guid": "b61b85249898476587b98996ba9dd154.16",
       "lat": 22.605659,
@@ -8786,6 +8822,12 @@
       "lat": 22.363547,
       "lng": 88.430553,
       "name": "Rakkhakali Mandir"
+    },
+    "be06468328324a5cb1aee84af55da8c2.16": {
+      "guid": "be06468328324a5cb1aee84af55da8c2.16",
+      "lat": 22.515571,
+      "lng": 88.341458,
+      "name": "Durga Statue"
     },
     "be9336cc7c8a4eb7889deec6d2101c87.16": {
       "guid": "be9336cc7c8a4eb7889deec6d2101c87.16",
@@ -9261,6 +9303,12 @@
       "lng": 88.386971,
       "name": "Giraffe Garden"
     },
+    "cc73282896794af28a206a676e8acb64.16": {
+      "guid": "cc73282896794af28a206a676e8acb64.16",
+      "lat": 22.50085,
+      "lng": 88.334783,
+      "name": "Shibaloy Under Banyan Tree"
+    },
     "cc86a1243dc040eabfe2b6d00da21ce7.16": {
       "guid": "cc86a1243dc040eabfe2b6d00da21ce7.16",
       "lat": 22.585344,
@@ -9549,6 +9597,12 @@
       "lng": 88.364513,
       "name": "Shri Shri Shibtara Mandir"
     },
+    "d3d047eda58b42bb9653d9f4328528ba.16": {
+      "guid": "d3d047eda58b42bb9653d9f4328528ba.16",
+      "lat": 22.881562,
+      "lng": 88.420469,
+      "name": "Maa Shitala Temple"
+    },
     "d3d2adb5eaa34498bb8ac6b76e6923b3.16": {
       "guid": "d3d2adb5eaa34498bb8ac6b76e6923b3.16",
       "lat": 22.545415,
@@ -9602,12 +9656,6 @@
       "lat": 22.67438,
       "lng": 88.445245,
       "name": "Jagatrani Maa Durga Temple "
-    },
-    "d50a00720c8d453584564269f715c7ed.16": {
-      "guid": "d50a00720c8d453584564269f715c7ed.16",
-      "lat": 22.514564,
-      "lng": 88.346373,
-      "name": "Bust Of Kavi Dijendra Lal Roy"
     },
     "d57c3e0af96d45178618ca73e9c0b3b0.16": {
       "guid": "d57c3e0af96d45178618ca73e9c0b3b0.16",
@@ -10190,6 +10238,12 @@
       "lat": 22.486583,
       "lng": 88.375668,
       "name": "Chittaranjan Das Park"
+    },
+    "ec67c7fe7b9043e4962fdb7a0da1435a.16": {
+      "guid": "ec67c7fe7b9043e4962fdb7a0da1435a.16",
+      "lat": 22.490273,
+      "lng": 88.408627,
+      "name": "Kavi Nazrul Islam Sishu Uddyan "
     },
     "ec6eede4d7ea4c59a2e2cd6bdc18fbfd.16": {
       "guid": "ec6eede4d7ea4c59a2e2cd6bdc18fbfd.16",
