@@ -6020,6 +6020,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.346373,
+                    22.514564
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "Bust Of Kavi Dijendra Lal Roy",
+                "guid": "d50a00720c8d453584564269f715c7ed.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.371973,
                     22.491613
                 ]
@@ -9280,6 +9295,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.282161,
+                    22.584325
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Tank At Santragachi Station",
+                "guid": "203778c80ca243658c1e707f32f6fbf1.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.372076,
                     22.700965
                 ]
@@ -9618,6 +9648,21 @@
                 "pogo_type": "stop",
                 "name": "Vidyasagar Cultural Association",
                 "guid": "2418d8f1f6c44bc2a5995458ce1607ca.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.396977,
+                    22.562663
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Mahatma Gandhi Mural ",
+                "guid": "243ad568dfc84725905e765e64818211.16"
             }
         },
         {
@@ -13465,6 +13510,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.44161,
+                    22.927285
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Kalitala temple halisahar",
+                "guid": "53996a0f44124697b9c5be1712cf0acd.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.406416,
                     22.495932
                 ]
@@ -14178,6 +14238,21 @@
                 "pogo_type": "stop",
                 "name": "Queen Peace Church ",
                 "guid": "5ba2fa29149c4162a451927ae495f85d.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.344399,
+                    22.511473
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Shib Kali Temple",
+                "guid": "5bbcbd1b36744ea1b5167c750799357e.16"
             }
         },
         {
@@ -21085,6 +21160,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.390182,
+                    22.608731
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Dutta Bagan Masjid",
+                "guid": "b60d225b8e524e69bdf0d54df7cdb8a6.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.386035,
                     22.605659
                 ]
@@ -21903,6 +21993,21 @@
                 "pogo_type": "stop",
                 "name": "Rakkhakali Mandir",
                 "guid": "bdd365201044459ba74c3590aeb18d24.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.341458,
+                    22.515571
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Durga Statue",
+                "guid": "be06468328324a5cb1aee84af55da8c2.16"
             }
         },
         {
@@ -23095,6 +23200,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.334783,
+                    22.50085
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Shibaloy Under Banyan Tree",
+                "guid": "cc73282896794af28a206a676e8acb64.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.286786,
                     22.585344
                 ]
@@ -23815,6 +23935,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.420469,
+                    22.881562
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Maa Shitala Temple",
+                "guid": "d3d047eda58b42bb9653d9f4328528ba.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.346297,
                     22.545415
                 ]
@@ -23943,21 +24078,6 @@
                 "pogo_type": "stop",
                 "name": "Jagatrani Maa Durga Temple ",
                 "guid": "d4fbd68715f04c0583fc3e16456e5a64.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88.346373,
-                    22.514564
-                ]
-            },
-            "properties": {
-                "pogo_type": "stop",
-                "name": "Bust Of Kavi Dijendra Lal Roy",
-                "guid": "d50a00720c8d453584564269f715c7ed.16"
             }
         },
         {
@@ -25413,6 +25533,21 @@
                 "pogo_type": "stop",
                 "name": "Chittaranjan Das Park",
                 "guid": "ec54a8eebe0143ac85b5e6506450c7d6.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.408627,
+                    22.490273
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Kavi Nazrul Islam Sishu Uddyan ",
+                "guid": "ec67c7fe7b9043e4962fdb7a0da1435a.16"
             }
         },
         {
