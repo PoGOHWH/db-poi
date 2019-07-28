@@ -222,6 +222,12 @@
       "lng": 88.453043,
       "name": "Road Art"
     },
+    "126feacb6faf4226aa817acf1564160f.16": {
+      "guid": "126feacb6faf4226aa817acf1564160f.16",
+      "lat": 22.579067,
+      "lng": 88.471532,
+      "name": "Swastika Landmark Narkel Square"
+    },
     "135a1a668b124434b31a5b243d69a0a2.16": {
       "guid": "135a1a668b124434b31a5b243d69a0a2.16",
       "lat": 22.548751,
@@ -855,6 +861,12 @@
       "lng": 88.430257,
       "name": "Triangular Pillar"
     },
+    "438bbccb7ae749cd8b7d74eac8b5c9d7.16": {
+      "guid": "438bbccb7ae749cd8b7d74eac8b5c9d7.16",
+      "lat": 22.512499,
+      "lng": 88.360081,
+      "name": "Mumuksha Statue"
+    },
     "43be13eecb934ddc9b96653bc0874894.16": {
       "guid": "43be13eecb934ddc9b96653bc0874894.16",
       "lat": 22.490427,
@@ -908,6 +920,12 @@
       "lat": 22.609546,
       "lng": 88.416352,
       "name": "Krishnapur Upanagar Kali Mandir, Dum Dum Park"
+    },
+    "4859ab0e25cc4159b7bc179e714a60c2.16": {
+      "guid": "4859ab0e25cc4159b7bc179e714a60c2.16",
+      "lat": 22.491194,
+      "lng": 88.363658,
+      "name": "Netajj Subhash Chandra Basu Statue "
     },
     "498c23fdc7af4b35a06e3da853ede9e1.16": {
       "guid": "498c23fdc7af4b35a06e3da853ede9e1.16",
@@ -1150,6 +1168,12 @@
       "lat": 22.453812,
       "lng": 88.418463,
       "name": "Swami Vivekananda Statue"
+    },
+    "5c629430ea644a758240fea3cca2f0a8.16": {
+      "guid": "5c629430ea644a758240fea3cca2f0a8.16",
+      "lat": 22.486593,
+      "lng": 88.361534,
+      "name": "bijoygarh maa tara hanuman temple."
     },
     "5e7b100ccab54b1eba70dcdf19708c00.16": {
       "guid": "5e7b100ccab54b1eba70dcdf19708c00.16",
@@ -1794,6 +1818,12 @@
       "lng": 88.407654,
       "name": "Rabindranath Statue"
     },
+    "9cacba8104b346479a05e75dacebf880.16": {
+      "guid": "9cacba8104b346479a05e75dacebf880.16",
+      "lat": 22.468956,
+      "lng": 88.38671,
+      "name": "Biplabi baghajatin abakha statue"
+    },
     "9cacfb26768544cfa956def3762d0f63.16": {
       "guid": "9cacfb26768544cfa956def3762d0f63.16",
       "lat": 22.660632,
@@ -2037,6 +2067,12 @@
       "lat": 22.449655,
       "lng": 88.425218,
       "name": "Manasha Mandir"
+    },
+    "b642da234b0547648e765e4e061f52b6.16": {
+      "guid": "b642da234b0547648e765e4e061f52b6.16",
+      "lat": 22.571029,
+      "lng": 88.388553,
+      "name": "Statue of kazi nazrul islam"
     },
     "b64ecf0c31d44e6ebfaee27b4ae7eb5c.16": {
       "guid": "b64ecf0c31d44e6ebfaee27b4ae7eb5c.16",
@@ -2343,6 +2379,12 @@
       "lat": 22.672427,
       "lng": 88.455567,
       "name": "Sri Sri Batkali Mandir "
+    },
+    "cc73282896794af28a206a676e8acb64.16": {
+      "guid": "cc73282896794af28a206a676e8acb64.16",
+      "lat": 22.50085,
+      "lng": 88.334783,
+      "name": "Shibaloy Under Banyan Tree"
     },
     "cd276af10c694ce3bcff191799da87c2.16": {
       "guid": "cd276af10c694ce3bcff191799da87c2.16",
@@ -2781,6 +2823,12 @@
       "lng": 88.347668,
       "name": "Shaheed Matengini Hajra"
     },
+    "fcba968e0fa343fcaafcdec9f52d54bb.16": {
+      "guid": "fcba968e0fa343fcaafcdec9f52d54bb.16",
+      "lat": 22.454398,
+      "lng": 88.38755,
+      "name": "Statue of Netaji Subhash Chandra Basu"
+    },
     "fcf3fff0799f4bf0a42ef98c4f7ca057.16": {
       "guid": "fcf3fff0799f4bf0a42ef98c4f7ca057.16",
       "lat": 22.564362,
@@ -2798,6 +2846,12 @@
       "lat": 22.600754,
       "lng": 88.406595,
       "name": "Vivekananda Children's Park"
+    },
+    "fef73abc175146799875ebc613e1e23e.16": {
+      "guid": "fef73abc175146799875ebc613e1e23e.16",
+      "lat": 22.438988,
+      "lng": 88.416073,
+      "name": "Doremon statue "
     },
     "ff1c7cd4b764482092a38674b5410d27.16": {
       "guid": "ff1c7cd4b764482092a38674b5410d27.16",
@@ -2829,6 +2883,12 @@
   "ignoredCellsMissingGyms": {},
   "notpogo": {},
   "pokestops": {
+    "00331507a64444ff8b36ebf4826f7a46.16": {
+      "guid": "00331507a64444ff8b36ebf4826f7a46.16",
+      "lat": 22.501153,
+      "lng": 88.35168,
+      "name": "Biswakarma Temple"
+    },
     "004ac2b50bd6425fad336adf17630101.16": {
       "guid": "004ac2b50bd6425fad336adf17630101.16",
       "lat": 22.570898,
@@ -2907,6 +2967,12 @@
       "lng": 88.421004,
       "name": "Shani Temple"
     },
+    "040079fa238f425c9ae034f027412b62.16": {
+      "guid": "040079fa238f425c9ae034f027412b62.16",
+      "lat": 22.947971,
+      "lng": 88.454154,
+      "name": "Sri Sri Narmodeswar shiv mandir"
+    },
     "0402e4eb08944759896ec9fa74106d6a.16": {
       "guid": "0402e4eb08944759896ec9fa74106d6a.16",
       "lat": 22.5292,
@@ -2936,6 +3002,12 @@
       "lat": 22.764601,
       "lng": 88.350983,
       "name": "Statue Swami Vivekananda, Barrack Pore"
+    },
+    "04a533f0928c4b9faf62ebbb463cff64.16": {
+      "guid": "04a533f0928c4b9faf62ebbb463cff64.16",
+      "lat": 22.921609,
+      "lng": 88.437464,
+      "name": "Shani Mandir"
     },
     "04bf1dae54f3447a86810868d841dcad.16": {
       "guid": "04bf1dae54f3447a86810868d841dcad.16",
@@ -2978,6 +3050,12 @@
       "lat": 22.645188,
       "lng": 88.439235,
       "name": "The Ashosk Chakra"
+    },
+    "05ec73e11c2d4f90bd3d9d8c5b6a3019.16": {
+      "guid": "05ec73e11c2d4f90bd3d9d8c5b6a3019.16",
+      "lat": 22.454557,
+      "lng": 88.388164,
+      "name": "Mahamaya Temple"
     },
     "05ee53a757ea4f0e96b5a9317fd23c18.16": {
       "guid": "05ee53a757ea4f0e96b5a9317fd23c18.16",
@@ -3279,12 +3357,6 @@
       "lng": 88.480427,
       "name": "LOTUS STATUE"
     },
-    "126feacb6faf4226aa817acf1564160f.16": {
-      "guid": "126feacb6faf4226aa817acf1564160f.16",
-      "lat": 22.579067,
-      "lng": 88.471532,
-      "name": "Swastika Landmark Narkel Square"
-    },
     "12ae2f73fdec4dae80578d31160ed4db.16": {
       "guid": "12ae2f73fdec4dae80578d31160ed4db.16",
       "lat": 22.516837,
@@ -3476,6 +3548,12 @@
       "lat": 22.582314,
       "lng": 88.270667,
       "name": "Water Tower No. 4 "
+    },
+    "1826d7da3c1945dda22b5b9c194dc833.16": {
+      "guid": "1826d7da3c1945dda22b5b9c194dc833.16",
+      "lat": 22.470792,
+      "lng": 88.385311,
+      "name": "Statue of Swami Vivekananda"
     },
     "184cc5ab953c4299b4bd169701255425.16": {
       "guid": "184cc5ab953c4299b4bd169701255425.16",
@@ -4059,6 +4137,12 @@
       "lng": 88.388302,
       "name": "Hanuman Mandir"
     },
+    "2985f0a4f577404aa6863ffb515c9bf5.16": {
+      "guid": "2985f0a4f577404aa6863ffb515c9bf5.16",
+      "lat": 22.571968,
+      "lng": 88.389312,
+      "name": "3 relationships"
+    },
     "299ccdaab6234abfb460353909854e66.16": {
       "guid": "299ccdaab6234abfb460353909854e66.16",
       "lat": 22.501063,
@@ -4196,6 +4280,12 @@
       "lat": 22.556455,
       "lng": 88.296672,
       "name": "Way To Banyan Tree Plaque"
+    },
+    "2cf4409f47e341ed831f43ae4e7329c2.16": {
+      "guid": "2cf4409f47e341ed831f43ae4e7329c2.16",
+      "lat": 22.49486,
+      "lng": 88.36595,
+      "name": "Sri Sri Kaibalya Dham"
     },
     "2d5426873a374de89656b6b569005a9a.16": {
       "guid": "2d5426873a374de89656b6b569005a9a.16",
@@ -4509,6 +4599,12 @@
       "lng": 88.366246,
       "name": "Shiv Mandir"
     },
+    "3725d3181a9240a488c59a30fa035451.16": {
+      "guid": "3725d3181a9240a488c59a30fa035451.16",
+      "lat": 22.565438,
+      "lng": 88.384695,
+      "name": "Old Heritage Mosque"
+    },
     "37618706e07048409b7b097c549efd90.16": {
       "guid": "37618706e07048409b7b097c549efd90.16",
       "lat": 22.574588,
@@ -4538,6 +4634,12 @@
       "lat": 22.459849,
       "lng": 88.412752,
       "name": "Radha Krishna Temple"
+    },
+    "38211132e6e64b2cb817288a4b403c41.16": {
+      "guid": "38211132e6e64b2cb817288a4b403c41.16",
+      "lat": 22.59534,
+      "lng": 88.360582,
+      "name": "Sadhu Batakrishna Pal Statue"
     },
     "3826fa69104d400ab403b9ac3244826a.16": {
       "guid": "3826fa69104d400ab403b9ac3244826a.16",
@@ -4683,6 +4785,12 @@
       "lng": 88.372031,
       "name": "Doyamoyee Kali Temple"
     },
+    "3df367aac3c34d2b81672eec0350024a.16": {
+      "guid": "3df367aac3c34d2b81672eec0350024a.16",
+      "lat": 22.471764,
+      "lng": 88.389276,
+      "name": "Statue of Bal Ganesh"
+    },
     "3e051c6b5b1d49939810d21cc752e1b1.16": {
       "guid": "3e051c6b5b1d49939810d21cc752e1b1.16",
       "lat": 22.488267,
@@ -4754,6 +4862,12 @@
       "lat": 22.597898,
       "lng": 88.471268,
       "name": "The Jogger"
+    },
+    "4081e0e3b61e43a99256ee8393234509.16": {
+      "guid": "4081e0e3b61e43a99256ee8393234509.16",
+      "lat": 22.469324,
+      "lng": 88.385964,
+      "name": "Ganesh temple"
     },
     "40b682f1fdde45b5aaa1bf45a5e038f9.16": {
       "guid": "40b682f1fdde45b5aaa1bf45a5e038f9.16",
@@ -4862,12 +4976,6 @@
       "lat": 22.590192,
       "lng": 88.410516,
       "name": "Institute Of Development Studies Kolkata "
-    },
-    "438bbccb7ae749cd8b7d74eac8b5c9d7.16": {
-      "guid": "438bbccb7ae749cd8b7d74eac8b5c9d7.16",
-      "lat": 22.512499,
-      "lng": 88.360081,
-      "name": "Mumuksha Statue"
     },
     "438de8bf26d44b7586ee2276552b6c08.16": {
       "guid": "438de8bf26d44b7586ee2276552b6c08.16",
@@ -5001,12 +5109,6 @@
       "lng": 88.345757,
       "name": "Small Kali MA Mandir"
     },
-    "4859ab0e25cc4159b7bc179e714a60c2.16": {
-      "guid": "4859ab0e25cc4159b7bc179e714a60c2.16",
-      "lat": 22.491194,
-      "lng": 88.363658,
-      "name": "Netajj Subhash Chandra Basu Statue "
-    },
     "4867e9ca2eec4dc9a8c0e8cca5b647be.16": {
       "guid": "4867e9ca2eec4dc9a8c0e8cca5b647be.16",
       "lat": 22.45856,
@@ -5127,6 +5229,12 @@
       "lng": 88.465582,
       "name": "Statue "
     },
+    "4c06c9c4ecf94da99ecfb166a624f987.16": {
+      "guid": "4c06c9c4ecf94da99ecfb166a624f987.16",
+      "lat": 22.882652,
+      "lng": 88.431635,
+      "name": "Saheb colony ground water tank"
+    },
     "4c1aef75f4cb4f00b0a259aeac287596.16": {
       "guid": "4c1aef75f4cb4f00b0a259aeac287596.16",
       "lat": 22.841869,
@@ -5193,6 +5301,12 @@
       "lng": 88.368809,
       "name": "Magra Railway Station "
     },
+    "4e1ac227227240e4ada61f2926a217af.16": {
+      "guid": "4e1ac227227240e4ada61f2926a217af.16",
+      "lat": 22.887492,
+      "lng": 88.419002,
+      "name": "Streetside Saturn Temple"
+    },
     "4e1e90ae59f54b54be4182640e27e86d.16": {
       "guid": "4e1e90ae59f54b54be4182640e27e86d.16",
       "lat": 22.553642,
@@ -5258,6 +5372,12 @@
       "lat": 22.979037,
       "lng": 88.442343,
       "name": "Bengal Cricket Association"
+    },
+    "4fc0cb4e423440cf9e2f93e2075f1430.16": {
+      "guid": "4fc0cb4e423440cf9e2f93e2075f1430.16",
+      "lat": 22.503161,
+      "lng": 88.335052,
+      "name": "Lokenath Baba Mandir"
     },
     "4fd15374bbd24d07840275ba7214f2d0.16": {
       "guid": "4fd15374bbd24d07840275ba7214f2d0.16",
@@ -6003,6 +6123,12 @@
       "lng": 88.43244,
       "name": "Tank Sec 5"
     },
+    "6363bd4b352945edbe0edeb7002010f0.16": {
+      "guid": "6363bd4b352945edbe0edeb7002010f0.16",
+      "lat": 22.475843,
+      "lng": 88.380447,
+      "name": "KENDUA VIVEKANDA SISHU UDDYAN"
+    },
     "63ba442433e14b8a8a8c6993c33aeb23.16": {
       "guid": "63ba442433e14b8a8a8c6993c33aeb23.16",
       "lat": 22.559358,
@@ -6327,6 +6453,12 @@
       "lng": 88.42092,
       "name": "Water Tank Central Jail"
     },
+    "6d9e3cf1a4af4b349acdb932b6242db0.16": {
+      "guid": "6d9e3cf1a4af4b349acdb932b6242db0.16",
+      "lat": 22.491041,
+      "lng": 88.406059,
+      "name": "Lord Viswakarma Temple "
+    },
     "6da057a650d84c3da5219633235245bf.16": {
       "guid": "6da057a650d84c3da5219633235245bf.16",
       "lat": 22.964769,
@@ -6447,6 +6579,12 @@
       "lng": 88.438578,
       "name": "Satue Of Gostho Paul"
     },
+    "72071c27ac434b2891a608feb22121aa.16": {
+      "guid": "72071c27ac434b2891a608feb22121aa.16",
+      "lat": 22.433521,
+      "lng": 88.414723,
+      "name": "Panchanan Mandir"
+    },
     "720a6f88234f4f398f83d2daa3f12860.16": {
       "guid": "720a6f88234f4f398f83d2daa3f12860.16",
       "lat": 22.56072,
@@ -6488,6 +6626,12 @@
       "lat": 22.899666,
       "lng": 88.396407,
       "name": "Vivekananda statue at pipulpati"
+    },
+    "73503adf76ee4a2394e9eb7ea02ce11a.16": {
+      "guid": "73503adf76ee4a2394e9eb7ea02ce11a.16",
+      "lat": 22.482573,
+      "lng": 88.371845,
+      "name": "Joy Maa Kali Temple"
     },
     "7392b0f0f068431fa20f86100ad32f5e.16": {
       "guid": "7392b0f0f068431fa20f86100ad32f5e.16",
@@ -6759,6 +6903,12 @@
       "lng": 88.358179,
       "name": "Bust Of Sri Prabir Sengupta"
     },
+    "7a711df6ee014441983c83f9f875a7ed.16": {
+      "guid": "7a711df6ee014441983c83f9f875a7ed.16",
+      "lat": 22.486866,
+      "lng": 88.346942,
+      "name": "THREE LORD TEMPLE"
+    },
     "7aa95cdbaf744e3ab69253d9446e41c7.16": {
       "guid": "7aa95cdbaf744e3ab69253d9446e41c7.16",
       "lat": 22.535382,
@@ -6776,6 +6926,12 @@
       "lat": 22.503558,
       "lng": 88.378738,
       "name": "Dr. K. K. Dutta Memorial Playground"
+    },
+    "7b29da08a4b140b8ae0178fc3f7054fa.16": {
+      "guid": "7b29da08a4b140b8ae0178fc3f7054fa.16",
+      "lat": 22.825555,
+      "lng": 88.378715,
+      "name": "Nihar Basu Bust"
     },
     "7b3feee8202f493f8de8debdb47111ba.16": {
       "guid": "7b3feee8202f493f8de8debdb47111ba.16",
@@ -6975,6 +7131,12 @@
       "lng": 88.454126,
       "name": "Overhead Water Tank"
     },
+    "81a82a4dfb0e4aca9e4ec34a23dcd380.16": {
+      "guid": "81a82a4dfb0e4aca9e4ec34a23dcd380.16",
+      "lat": 22.498797,
+      "lng": 88.36434,
+      "name": "Katjunagar Kali Mandir"
+    },
     "81b62bf75fe741799efab8816fb6102b.16": {
       "guid": "81b62bf75fe741799efab8816fb6102b.16",
       "lat": 22.551586,
@@ -7083,6 +7245,12 @@
       "lng": 88.371455,
       "name": "Naktala Shani Temple "
     },
+    "84c5d8268f504ff4901d9a7e38dc15e0.16": {
+      "guid": "84c5d8268f504ff4901d9a7e38dc15e0.16",
+      "lat": 22.458134,
+      "lng": 88.381927,
+      "name": "Anandamayee Temple"
+    },
     "84c610a48b8e4180976cc64275fb9518.16": {
       "guid": "84c610a48b8e4180976cc64275fb9518.16",
       "lat": 22.808881,
@@ -7101,11 +7269,23 @@
       "lng": 88.3718,
       "name": "Central Library"
     },
+    "85115ca0dfb04ee0a7963d17413cc641.16": {
+      "guid": "85115ca0dfb04ee0a7963d17413cc641.16",
+      "lat": 22.513263,
+      "lng": 88.387452,
+      "name": "krishna kali mandir"
+    },
     "8565afcc025d4f8ebfbcd083f44fc4f4.16": {
       "guid": "8565afcc025d4f8ebfbcd083f44fc4f4.16",
       "lat": 22.566413,
       "lng": 88.417757,
       "name": "Gate Of Heaven"
+    },
+    "85d2ddab0edf4253bf9c922bf749ef83.16": {
+      "guid": "85d2ddab0edf4253bf9c922bf749ef83.16",
+      "lat": 22.513625,
+      "lng": 88.365042,
+      "name": "Old Engine statue"
     },
     "85ebb5108ecf4dd6898b83b53225b382.16": {
       "guid": "85ebb5108ecf4dd6898b83b53225b382.16",
@@ -7311,6 +7491,12 @@
       "lng": 88.396356,
       "name": "Hara Parvati Mural"
     },
+    "8b1daa52f3b64b6f859355f5793ebf46.16": {
+      "guid": "8b1daa52f3b64b6f859355f5793ebf46.16",
+      "lat": 22.501838,
+      "lng": 88.353886,
+      "name": "Bust of Indira Gandhi"
+    },
     "8b23893125cd40dbab1b48e4f01ba127.16": {
       "guid": "8b23893125cd40dbab1b48e4f01ba127.16",
       "lat": 22.568525,
@@ -7322,6 +7508,12 @@
       "lat": 22.702849,
       "lng": 88.461156,
       "name": "Sri Sri Grihoraj and Kali Mata Mandir "
+    },
+    "8b84753346b44b8d81d966fa2e419d71.16": {
+      "guid": "8b84753346b44b8d81d966fa2e419d71.16",
+      "lat": 22.513856,
+      "lng": 88.352,
+      "name": "Small shiv temple"
     },
     "8baa70b75d8741d5bfc6377927039b54.16": {
       "guid": "8baa70b75d8741d5bfc6377927039b54.16",
@@ -8295,6 +8487,12 @@
       "lng": 88.435589,
       "name": "Krishna And Arjuna Mural"
     },
+    "ac9f259a21164211b75319587a21c8c4.16": {
+      "guid": "ac9f259a21164211b75319587a21c8c4.16",
+      "lat": 22.456275,
+      "lng": 88.385395,
+      "name": "Shani Temple"
+    },
     "aca950f8b26d4533b133080b9be94c48.16": {
       "guid": "aca950f8b26d4533b133080b9be94c48.16",
       "lat": 22.570204,
@@ -8354,6 +8552,12 @@
       "lat": 22.538859,
       "lng": 88.351276,
       "name": "Ganesh Mandir"
+    },
+    "ae8b9dd2fedd460fa0eead7dee761f22.16": {
+      "guid": "ae8b9dd2fedd460fa0eead7dee761f22.16",
+      "lat": 22.572858,
+      "lng": 88.383926,
+      "name": "young vivekananda mural"
     },
     "ae90a6bdb48f432fbd3faa8cdb81ae83.16": {
       "guid": "ae90a6bdb48f432fbd3faa8cdb81ae83.16",
@@ -8504,12 +8708,6 @@
       "lat": 22.676232,
       "lng": 88.445867,
       "name": "Wall Showing Angels "
-    },
-    "b642da234b0547648e765e4e061f52b6.16": {
-      "guid": "b642da234b0547648e765e4e061f52b6.16",
-      "lat": 22.571029,
-      "lng": 88.388553,
-      "name": "Statue of kazi nazrul islam"
     },
     "b6441d69a39f4365b9b3296b9b5a7742.16": {
       "guid": "b6441d69a39f4365b9b3296b9b5a7742.16",
@@ -8709,6 +8907,12 @@
       "lng": 88.465711,
       "name": "Statute Of Vivekananda"
     },
+    "bad91742a0d14207a6b547df21b82eda.16": {
+      "guid": "bad91742a0d14207a6b547df21b82eda.16",
+      "lat": 22.491312,
+      "lng": 88.367261,
+      "name": "Kali Temple"
+    },
     "baf12f886b0c49efac04ccfa685cd3fe.16": {
       "guid": "baf12f886b0c49efac04ccfa685cd3fe.16",
       "lat": 22.603792,
@@ -8829,6 +9033,12 @@
       "lng": 88.341458,
       "name": "Durga Statue"
     },
+    "be5fcf611b88422daf50e9f5d375dfa7.16": {
+      "guid": "be5fcf611b88422daf50e9f5d375dfa7.16",
+      "lat": 22.51655,
+      "lng": 88.382427,
+      "name": "Shrine Of Lord Shani"
+    },
     "be9336cc7c8a4eb7889deec6d2101c87.16": {
       "guid": "be9336cc7c8a4eb7889deec6d2101c87.16",
       "lat": 22.598107,
@@ -8877,6 +9087,12 @@
       "lng": 88.382757,
       "name": "Bust of Gostha pal"
     },
+    "bf61403549d14e189011dc5209209cd0.16": {
+      "guid": "bf61403549d14e189011dc5209209cd0.16",
+      "lat": 22.933284,
+      "lng": 88.412734,
+      "name": "Sidheswari shiv temple"
+    },
     "bfd9201c208d452d8697f5cb35396d3e.16": {
       "guid": "bfd9201c208d452d8697f5cb35396d3e.16",
       "lat": 22.544778,
@@ -8924,6 +9140,12 @@
       "lat": 22.430061,
       "lng": 88.423557,
       "name": "Shitala Mata Mandir"
+    },
+    "c2811def6a5a4e6da82e4c5f86d46560.16": {
+      "guid": "c2811def6a5a4e6da82e4c5f86d46560.16",
+      "lat": 22.922507,
+      "lng": 88.378048,
+      "name": "Heritage Steam Crane"
     },
     "c29c949c1ed94297a107d13c92c3aedd.16": {
       "guid": "c29c949c1ed94297a107d13c92c3aedd.16",
@@ -9093,6 +9315,12 @@
       "lng": 88.426525,
       "name": "Laxmi Mata Mandir"
     },
+    "c6cf5bed9db34522a78632fec9ae07c5.16": {
+      "guid": "c6cf5bed9db34522a78632fec9ae07c5.16",
+      "lat": 22.51392,
+      "lng": 88.363648,
+      "name": "Calcutta sports association"
+    },
     "c6eedc3f89eb44a2a6c9b99854fe53b5.16": {
       "guid": "c6eedc3f89eb44a2a6c9b99854fe53b5.16",
       "lat": 22.922587,
@@ -9201,11 +9429,23 @@
       "lng": 88.325099,
       "name": "Acupressure Pebble Track"
     },
+    "ca1e76d83a1040ceac5a9aa2a5e8a148.16": {
+      "guid": "ca1e76d83a1040ceac5a9aa2a5e8a148.16",
+      "lat": 22.502157,
+      "lng": 88.359447,
+      "name": "Shani Temple"
+    },
     "ca427677a00245bbbe85666f3e71caba.16": {
       "guid": "ca427677a00245bbbe85666f3e71caba.16",
       "lat": 22.566611,
       "lng": 88.270068,
       "name": "Lord Krishna Temple"
+    },
+    "ca5829621a7345d7ac78c88771d1ad31.16": {
+      "guid": "ca5829621a7345d7ac78c88771d1ad31.16",
+      "lat": 22.51318,
+      "lng": 88.361294,
+      "name": "Giraffe slide"
     },
     "ca5e6a768b57407dadbc465e7cb10919.16": {
       "guid": "ca5e6a768b57407dadbc465e7cb10919.16",
@@ -9302,12 +9542,6 @@
       "lat": 22.823852,
       "lng": 88.386971,
       "name": "Giraffe Garden"
-    },
-    "cc73282896794af28a206a676e8acb64.16": {
-      "guid": "cc73282896794af28a206a676e8acb64.16",
-      "lat": 22.50085,
-      "lng": 88.334783,
-      "name": "Shibaloy Under Banyan Tree"
     },
     "cc86a1243dc040eabfe2b6d00da21ce7.16": {
       "guid": "cc86a1243dc040eabfe2b6d00da21ce7.16",
@@ -9477,6 +9711,12 @@
       "lng": 88.415294,
       "name": "Biswa Bangla Sarani Road Markar"
     },
+    "d0329d8bcb074086ad3a139d9c5047aa.16": {
+      "guid": "d0329d8bcb074086ad3a139d9c5047aa.16",
+      "lat": 22.511553,
+      "lng": 88.375841,
+      "name": "Rai Para Shib mandir"
+    },
     "d084d627254441b9b9c2a0bac58e185a.16": {
       "guid": "d084d627254441b9b9c2a0bac58e185a.16",
       "lat": 22.596921,
@@ -9488,6 +9728,12 @@
       "lat": 22.634519,
       "lng": 88.415775,
       "name": "Sherabali Temple"
+    },
+    "d139fe75aa1d4890a0a668fa6294ae96.16": {
+      "guid": "d139fe75aa1d4890a0a668fa6294ae96.16",
+      "lat": 22.886034,
+      "lng": 88.393295,
+      "name": "Shiv Mandir"
     },
     "d165c0662bc34c21aece8b62bab482d0.16": {
       "guid": "d165c0662bc34c21aece8b62bab482d0.16",
@@ -9669,6 +9915,12 @@
       "lng": 88.35329,
       "name": "Shri Baba Laleshwar Mahadev Mandir"
     },
+    "d5c4b0df29474b8abe96659aa104bae8.16": {
+      "guid": "d5c4b0df29474b8abe96659aa104bae8.16",
+      "lat": 22.844884,
+      "lng": 88.381659,
+      "name": "Athpur Binapani Pathagar"
+    },
     "d5ce2661fcfe463eb7bf660b0c3d5249.16": {
       "guid": "d5ce2661fcfe463eb7bf660b0c3d5249.16",
       "lat": 22.503884,
@@ -9686,6 +9938,12 @@
       "lat": 22.865247,
       "lng": 88.404693,
       "name": "Kankinara Railway Station"
+    },
+    "d703c04972ce4454bfb0f0ebbaf17167.16": {
+      "guid": "d703c04972ce4454bfb0f0ebbaf17167.16",
+      "lat": 22.582722,
+      "lng": 88.28105,
+      "name": "Shiv Mandir"
     },
     "d74dea12743648faadaf4eea2875039b.16": {
       "guid": "d74dea12743648faadaf4eea2875039b.16",
@@ -9764,6 +10022,12 @@
       "lat": 22.574187,
       "lng": 88.364487,
       "name": "Paramount Since 1918"
+    },
+    "da718cd014234efb875eef0145c4d7af.16": {
+      "guid": "da718cd014234efb875eef0145c4d7af.16",
+      "lat": 22.513479,
+      "lng": 88.35985,
+      "name": "Musical fountain"
     },
     "dafa7ac40b744e459ed71aa2033aeca2.16": {
       "guid": "dafa7ac40b744e459ed71aa2033aeca2.16",
@@ -10113,11 +10377,23 @@
       "lng": 88.413744,
       "name": "Statue Of Konashree "
     },
+    "e6cbac93df9e4c4aa96f1da9e524908e.16": {
+      "guid": "e6cbac93df9e4c4aa96f1da9e524908e.16",
+      "lat": 22.944254,
+      "lng": 88.449787,
+      "name": "GANESH PARK"
+    },
     "e70f222985e4456d82e91df7d97dbb0d.16": {
       "guid": "e70f222985e4456d82e91df7d97dbb0d.16",
       "lat": 22.690369,
       "lng": 88.442676,
       "name": "Maa Tara Temple"
+    },
+    "e7276d6a3fbc4c80a19c1da1a0e207b6.16": {
+      "guid": "e7276d6a3fbc4c80a19c1da1a0e207b6.16",
+      "lat": 22.51095,
+      "lng": 88.367139,
+      "name": "Shree Shree Shani Mandir"
     },
     "e743424212e54da59c40b716844bed50.16": {
       "guid": "e743424212e54da59c40b716844bed50.16",
@@ -10130,6 +10406,12 @@
       "lat": 22.696207,
       "lng": 88.257517,
       "name": "Kathi Statue"
+    },
+    "e7e3b8f54df04721bf595b0d3d06e0e6.16": {
+      "guid": "e7e3b8f54df04721bf595b0d3d06e0e6.16",
+      "lat": 22.877127,
+      "lng": 88.408201,
+      "name": "Temple of Goddess Kali at Bhatpara"
     },
     "e7ed37bbf2444d779270d031ab6283dc.16": {
       "guid": "e7ed37bbf2444d779270d031ab6283dc.16",
@@ -10148,6 +10430,12 @@
       "lat": 22.585783,
       "lng": 88.395631,
       "name": "Ma Kali Temple"
+    },
+    "e8fea519c656425db7560eae69caa613.16": {
+      "guid": "e8fea519c656425db7560eae69caa613.16",
+      "lat": 22.508133,
+      "lng": 88.365325,
+      "name": "Jodhpur Park Shishu Uddan"
     },
     "e9016d0dcfd9438f9c17c67daa3ee9e7.16": {
       "guid": "e9016d0dcfd9438f9c17c67daa3ee9e7.16",
@@ -10365,6 +10653,12 @@
       "lng": 88.409137,
       "name": "আনন্দময়ী কালীবাড়ি।"
     },
+    "f1aa2d5e19894be2916ccdb73204166a.16": {
+      "guid": "f1aa2d5e19894be2916ccdb73204166a.16",
+      "lat": 22.513486,
+      "lng": 88.344724,
+      "name": "Tricone Park"
+    },
     "f1b3605c51974bd9969a3964286c01d3.16": {
       "guid": "f1b3605c51974bd9969a3964286c01d3.16",
       "lat": 22.579531,
@@ -10461,6 +10755,12 @@
       "lng": 88.34741,
       "name": "Netaji Statue"
     },
+    "f3e91d3d9c2b4e2686c472169ffcbebe.16": {
+      "guid": "f3e91d3d9c2b4e2686c472169ffcbebe.16",
+      "lat": 22.588461,
+      "lng": 88.306636,
+      "name": "Shibaji Sangha Park"
+    },
     "f41b46d508d64a1da847ce9518e971ce.16": {
       "guid": "f41b46d508d64a1da847ce9518e971ce.16",
       "lat": 22.436622,
@@ -10497,6 +10797,12 @@
       "lng": 88.429216,
       "name": "Shastribagan Sporting Club"
     },
+    "f4f014729ef0458c9ba5813f0f1ff495.16": {
+      "guid": "f4f014729ef0458c9ba5813f0f1ff495.16",
+      "lat": 22.952616,
+      "lng": 88.42398,
+      "name": "The Salvation Army Church"
+    },
     "f5283bd8930c4e18b0cdf5a3cf7c8707.16": {
       "guid": "f5283bd8930c4e18b0cdf5a3cf7c8707.16",
       "lat": 22.603534,
@@ -10532,6 +10838,12 @@
       "lat": 22.585915,
       "lng": 88.421967,
       "name": "Clock Street Lamp"
+    },
+    "f5ac04cf862a4b4f8f3c1f5777891a53.16": {
+      "guid": "f5ac04cf862a4b4f8f3c1f5777891a53.16",
+      "lat": 22.83118,
+      "lng": 88.379166,
+      "name": "Rabindranath Statue At Park"
     },
     "f612784651384d50992c8d298d4fadc1.16": {
       "guid": "f612784651384d50992c8d298d4fadc1.16",
@@ -10875,11 +11187,11 @@
       "lng": 88.479902,
       "name": "Fountain"
     },
-    "fef73abc175146799875ebc613e1e23e.16": {
-      "guid": "fef73abc175146799875ebc613e1e23e.16",
-      "lat": 22.438988,
-      "lng": 88.416073,
-      "name": "Doremon statue "
+    "ff01ab578dc240aba81131cb99ac0c82.16": {
+      "guid": "ff01ab578dc240aba81131cb99ac0c82.16",
+      "lat": 22.578749,
+      "lng": 88.47231,
+      "name": "Biswa Bangla Gate"
     },
     "ff1614cf8c204ab49aa65e26761a7443.16": {
       "guid": "ff1614cf8c204ab49aa65e26761a7443.16",
