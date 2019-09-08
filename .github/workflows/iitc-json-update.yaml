@@ -29,3 +29,41 @@ jobs:
         commit_message: Automatically cleaned and converted data
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+name: Clean and Convert
+
+on: push
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: npx ./cleanjsonify.js
+
+  convert:
+    needs: clean
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: npx ./geojsonify.js
+
+  publish-npm:
+    needs: convert
+    runs-on: ubuntu-latest
+    steps:
+      uses: stefanzweifel/git-auto-commit-action@v2.0.0
+      with:
+        commit_author_email: pogohwh@gmail.com
+        commit_author_name: PoGOHWH
+        commit_message: Automatically cleaned and converted data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
