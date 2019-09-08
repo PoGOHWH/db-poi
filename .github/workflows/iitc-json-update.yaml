@@ -1,37 +1,3 @@
-on: push
-name: clean-and-convert
-jobs:
-  clean-and-convert:
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v1
-      with:
-        fetch-depth: 1
-
-    - name: Install dependencies
-      uses: docker://node:11
-      run: npm install
-
-    - name: Clean JSON
-      uses: docker://node:11
-      run: npx ./cleanjsonify.js
-
-    - name: Convert to GeoJSON
-      uses: docker://node:11
-      runs: npx ./geojsonify.js
-
-    - name: Commit changed files
-      uses: stefanzweifel/git-auto-commit-action@v2.0.0
-      with:
-        commit_author_email: pogohwh@gmail.com
-        commit_author_name: PoGOHWH
-        commit_message: Automatically cleaned and converted data
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
 name: Clean and Convert
 
 on: push
