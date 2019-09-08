@@ -1,9 +1,7 @@
 name: Clean and Convert
-
 on: push
-
 jobs:
-  clean:
+  clean-and-convert:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
