@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/PoGOHWH/iitc-pogo-json/issues"
   },
-  "homepage": "https://github.com/PoGOHWH/iitc-pogo-json#readme"
+  "homepage": "https://github.com/PoGOHWH/iitc-pogo-json#readme",
+  "devDependencies": {
+    "write-json-file": "^4.2.0"
+  }
 }
