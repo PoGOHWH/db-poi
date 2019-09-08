@@ -3,7 +3,17 @@ name: Clean and Convert
 on: push
 
 jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: npm install
+
   clean:
+    needs: install
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
