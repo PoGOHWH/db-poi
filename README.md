@@ -12,18 +12,11 @@ Just import the JSON file from the PoGO Actions menu added to IITC by PoGO-S2.
 
 If you would like to contribute updates and additions:
 
-1. Please download the latest version of the JSON and do a fresh import before starting work.
+1. Please download the latest version of the [JSON](https://github.com/PoGOHWH/iitc-pogo-json/blob/master/IITC-pogo.json) and do a fresh import before starting work.
 2. Make your changes, and export the file.
-3. Sort and format your export:
-    - Linting standards:
-        - Indentation: 4 spaces
-        - PoI alphabetically sorted by GUID key.
-        - Braces and brackets on keyline, with children indented.
-    - The following tools have been tested to conform with the linting standards:
-        - Webapp [JSONABC](http://novicelab.org/jsonabc/)
-        - VS Code extension [Sort JSON Objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
-2. Fork this repository and commit your formatted export explaining what it does.
-3. Send us a pull request! :D
+3. Fork this repository and commit your export explaining what it does.
+  - Yes, you can just overwrite the formatted JSON with the one-line soup that the plugin exports. The GitHub Actions will take care of making it legible once it gets to this repo.
+4. Send us a pull request! :D
 
 ## Credits
 
