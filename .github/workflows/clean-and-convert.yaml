@@ -12,21 +12,7 @@ jobs:
           node-version: 12
       - run: npm install
       - run: npx ./cleanjsonify.js
-
-  convert:
-    needs: clean
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
       - run: npx ./geojsonify.js
-
-  commit:
-    needs: convert
-    runs-on: ubuntu-latest
-    steps:
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v2.0.0
         with:
