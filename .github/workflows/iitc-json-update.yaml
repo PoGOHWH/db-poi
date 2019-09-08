@@ -11,18 +11,15 @@ jobs:
 
     - name: Install dependencies
       uses: docker://node:11
-      runs: npm
-      args: install
+      run: npm install
 
     - name: Clean JSON
       uses: docker://node:11
-      runs: npx
-      args: ./cleanjsonify.js
+      run: npx ./cleanjsonify.js
 
     - name: Convert to GeoJSON
       uses: docker://node:11
-      runs: npx
-      args: ./geojsonify.js
+      runs: npx ./geojsonify.js
 
     - name: Commit changed files
       uses: stefanzweifel/git-auto-commit-action@v2.0.0
