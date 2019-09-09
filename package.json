@@ -3,6 +3,7 @@
   "version": "2019.9.9",
   "description": "A manually curated database marking all the RWP/Ingress PoI in and around Kolkata for their use in Pokémon GO. Courtesy of the magnificient 👑SS👑!",
   "scripts": {
+    "cleanjsonify": "node cleanjsonify.js",
     "geojsonify": "node geojsonify.js"
   },
   "repository": {

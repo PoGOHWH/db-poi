@@ -9,8 +9,8 @@ jobs:
         with:
           node-version: 12
       - run: npm install
-      - run: npx ./cleanjsonify.js
-      - run: npx ./geojsonify.js
+      - run: npm run cleanjsonify
+      - run: npm run geojsonify
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v2.0.0
         with:
