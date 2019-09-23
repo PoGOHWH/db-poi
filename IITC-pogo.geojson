@@ -837,21 +837,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    88.422073,
-                    22.884029
-                ]
-            },
-            "properties": {
-                "pogo_type": "gym",
-                "name": "Nandi Pukur Shiv Temple",
-                "guid": "189394d9b15442db82e0ee164a7aa8c2.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     88.364573,
                     22.472863
                 ]
@@ -6906,6 +6891,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.42528,
+                    22.882245
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "Sani Temple",
+                "guid": "da0d4218e00a46668be493ed17fee607.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.459407,
                     22.694551
                 ]
@@ -9768,6 +9768,21 @@
                 "pogo_type": "stop",
                 "name": "Ramkrishna Paramhansa statue",
                 "guid": "1873f552c3f84f8eba8eb3dbc8c26dad.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.422073,
+                    22.884029
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Nandi Pukur Shiv Temple",
+                "guid": "189394d9b15442db82e0ee164a7aa8c2.16"
             }
         },
         {
@@ -27948,21 +27963,6 @@
                 "pogo_type": "stop",
                 "name": "Hwh Railway Station",
                 "guid": "d9f1e163e5254eea878ccb973fe2c74b.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88.42528,
-                    22.882245
-                ]
-            },
-            "properties": {
-                "pogo_type": "stop",
-                "name": "Sani Temple",
-                "guid": "da0d4218e00a46668be493ed17fee607.16"
             }
         },
         {
