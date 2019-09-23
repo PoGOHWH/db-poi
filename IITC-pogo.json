@@ -336,12 +336,6 @@
       "lng": 88.349334,
       "name": "Bottala Shiv Mandir"
     },
-    "189394d9b15442db82e0ee164a7aa8c2.16": {
-      "guid": "189394d9b15442db82e0ee164a7aa8c2.16",
-      "lat": 22.884029,
-      "lng": 88.422073,
-      "name": "Nandi Pukur Shiv Temple"
-    },
     "18c193bd84ba42a7863e61b68d1017f5.16": {
       "guid": "18c193bd84ba42a7863e61b68d1017f5.16",
       "lat": 22.472863,
@@ -2778,6 +2772,12 @@
       "lng": 88.409666,
       "name": "Lady with a Conch"
     },
+    "da0d4218e00a46668be493ed17fee607.16": {
+      "guid": "da0d4218e00a46668be493ed17fee607.16",
+      "lat": 22.882245,
+      "lng": 88.42528,
+      "name": "Sani Temple"
+    },
     "da162131577a47fe958d1e5c864321fe.16": {
       "guid": "da162131577a47fe958d1e5c864321fe.16",
       "lat": 22.694551,
@@ -3932,6 +3932,12 @@
       "lat": 22.489298,
       "lng": 88.365218,
       "name": "Ramkrishna Paramhansa statue"
+    },
+    "189394d9b15442db82e0ee164a7aa8c2.16": {
+      "guid": "189394d9b15442db82e0ee164a7aa8c2.16",
+      "lat": 22.884029,
+      "lng": 88.422073,
+      "name": "Nandi Pukur Shiv Temple"
     },
     "18ac1b60a4b3492588738fa0dfbedc97.16": {
       "guid": "18ac1b60a4b3492588738fa0dfbedc97.16",
@@ -11204,12 +11210,6 @@
       "lat": 22.581248,
       "lng": 88.342192,
       "name": "Hwh Railway Station"
-    },
-    "da0d4218e00a46668be493ed17fee607.16": {
-      "guid": "da0d4218e00a46668be493ed17fee607.16",
-      "lat": 22.882245,
-      "lng": 88.42528,
-      "name": "Sani Temple"
     },
     "da5bf1012b1e46229ce620c6c7fd00c6.16": {
       "guid": "da5bf1012b1e46229ce620c6c7fd00c6.16",
