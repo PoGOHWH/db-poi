@@ -54,5 +54,5 @@ const geojson = {
   features: [...gyms, ...stops]
 }
 
-promisify(fs.writeFile)('IITC-pogo.geojson', JSON.stringify(geojson, null, 4), 'utf8')
+promisify(fs.writeFile)('poi.geojson', JSON.stringify(geojson, null, 4), 'utf8')
   .then(() => console.log('GeoJSON compiled'))
