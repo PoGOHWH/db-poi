@@ -10,5 +10,5 @@ const data = require(JSON)
 
 writeJsonFile(JSON, data, {
   indent: '  ',
-  sortKeys: true,
+  sortKeys: true
 }).then(() => console.log('JSON cleaned'))
