@@ -12,7 +12,7 @@ Just import the JSON file from the PoGO Actions menu added to IITC by PoGO-S2.
 
 If you would like to contribute updates and additions:
 
-1. Please download the latest version of the [JSON](https://github.com/PoGOHWH/iitc-pogo-json/blob/master/IITC-pogo.json) and do a fresh import before starting work.
+1. Please download the latest version of the [JSON](https://github.com/PoGOHWH/db-poi/blob/master/IITC-pogo.json) and do a fresh import before starting work.
 2. Make your changes, and export the file.
 3. Fork this repository and commit your export explaining what it does.
   - Yes, you can just overwrite the formatted JSON with the one-line soup that the plugin exports. The GitHub Actions will take care of making it legible once it gets to this repo.
