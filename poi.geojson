@@ -837,6 +837,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.385311,
+                    22.470792
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "Statue of Swami Vivekananda",
+                "guid": "1826d7da3c1945dda22b5b9c194dc833.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.364573,
                     22.472863
                 ]
@@ -1072,6 +1087,21 @@
                 "pogo_ex": true,
                 "name": "ITC Park Graffiti",
                 "guid": "1d31e4e3c0134d019e2eaa2754eb09d8.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.388768,
+                    22.473367
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "Fountain Lights",
+                "guid": "1d4e2ee947014f78bc753177f83bb712.16"
             }
         },
         {
@@ -2382,6 +2412,7 @@
             },
             "properties": {
                 "pogo_type": "gym",
+                "pogo_ex": true,
                 "name": "Mumuksha Statue",
                 "guid": "438bbccb7ae749cd8b7d74eac8b5c9d7.16"
             }
@@ -4769,6 +4800,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.451416,
+                    22.934597
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "St. George's Church",
+                "guid": "91af84e89f9a433996bcd4ec66297eaa.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.372572,
                     22.496088
                 ]
@@ -6709,6 +6755,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.393295,
+                    22.886034
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "Shiv Mandir",
+                "guid": "d139fe75aa1d4890a0a668fa6294ae96.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.291017,
+                    22.590152
+                ]
+            },
+            "properties": {
+                "pogo_type": "gym",
+                "name": "Tara Maa Mandir",
+                "guid": "d2bef7d66892476c8dfb864d87741da7.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.516162,
                     22.504157
                 ]
@@ -8545,6 +8621,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.406441,
+                    22.553267
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Dancing lady on wall",
+                "guid": "074e69945d4a4e05b4dd1da2c3e32fa7.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.377992,
                     22.478222
                 ]
@@ -9460,6 +9551,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.419807,
+                    22.682342
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Village wall paint",
+                "guid": "161464b30a9d4dfb97680102d87b2995.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.357969,
                     22.501757
                 ]
@@ -9693,21 +9799,6 @@
                 "pogo_type": "stop",
                 "name": "Water Tower No. 4 ",
                 "guid": "181abcb0fb684aad80545ae6a768e4bc.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88.385311,
-                    22.470792
-                ]
-            },
-            "properties": {
-                "pogo_type": "stop",
-                "name": "Statue of Swami Vivekananda",
-                "guid": "1826d7da3c1945dda22b5b9c194dc833.16"
             }
         },
         {
@@ -10045,6 +10136,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.371945,
+                    22.462835
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Garia Ramkrishna Seva Sangha",
+                "guid": "1b77b50043c544f4b2edbdda04ac6cff.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.359957,
                     22.575392
                 ]
@@ -10233,21 +10339,6 @@
                 "pogo_type": "stop",
                 "name": "Hanuman Mandir",
                 "guid": "1d2220f65ba149d693cbcb950f792c14.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88.388768,
-                    22.473367
-                ]
-            },
-            "properties": {
-                "pogo_type": "stop",
-                "name": "Fountain Lights",
-                "guid": "1d4e2ee947014f78bc753177f83bb712.16"
             }
         },
         {
@@ -11680,6 +11771,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.38711,
+                    22.471448
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "patuli post office",
+                "guid": "2b67399dbc384773940788958813f2ab.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.472002,
                     22.599515
                 ]
@@ -12220,6 +12326,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.343426,
+                    22.505777
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Brojendralal ganguli park",
+                "guid": "2f9179c52bc6436ab240fc452f8f1d3c.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.368827,
                     22.83846
                 ]
@@ -12288,6 +12409,21 @@
                 "pogo_type": "stop",
                 "name": "shiv temple",
                 "guid": "302472e3deed4bd9a20d5d3635dee791.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.399108,
+                    22.871173
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Bazar Ghat Shiva Temple",
+                "guid": "303b93673b924bf090e645b4f18ae53b.16"
             }
         },
         {
@@ -12408,6 +12544,21 @@
                 "pogo_type": "stop",
                 "name": "Bust of Tabla",
                 "guid": "31fff47b0866485eafafb9dcc6b6a009.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.357936,
+                    22.515237
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Small Shiv Temple",
+                "guid": "32360db2c96d498bbaa6c614b50e29f4.16"
             }
         },
         {
@@ -12588,6 +12739,21 @@
                 "pogo_type": "stop",
                 "name": "Hanuman Temple",
                 "guid": "355249cb9600492593ec45703f95235c.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.450814,
+                    22.935899
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Mural at sports ground",
+                "guid": "355f24c27a8244d2a5cdb8d716a428c9.16"
             }
         },
         {
@@ -13780,6 +13946,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.389042,
+                    22.838386
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Statue of The Swami Vivekananda",
+                "guid": "430f27aa6fc5461082561c4f2fe7b458.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.376348,
                     22.546539
                 ]
@@ -13848,6 +14029,21 @@
                 "pogo_type": "stop",
                 "name": "Tollygaunge Kali Mandir",
                 "guid": "43ffe2d264ea498e988d35d4a17acfce.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.399368,
+                    22.888108
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Clock Tower",
+                "guid": "441daeb7185e4626b09153aaf74d5ede.16"
             }
         },
         {
@@ -14575,6 +14771,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.334836,
+                    22.50776
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Jai Baba Lokenath mandir",
+                "guid": "4c35b56908634bceae19b2d64c289c85.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.409577,
                     22.635075
                 ]
@@ -15078,6 +15289,21 @@
                 "pogo_type": "stop",
                 "name": "Clock Tower Of Chandannagar Strand",
                 "guid": "51162ae502524bc58f944f91ff0dcc8d.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.366045,
+                    22.486321
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Mural depicting Bengal's culture",
+                "guid": "511be6d3dbea4978b33f33c3674cc73e.16"
             }
         },
         {
@@ -18265,6 +18491,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.384161,
+                    22.471291
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Patuli Water Tank 1",
+                "guid": "72d3d36ed8a64cb48fbb8a2afc422f93.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.358966,
                     22.655193
                 ]
@@ -18333,6 +18574,21 @@
                 "pogo_type": "stop",
                 "name": "Rajdanga Shani Temple",
                 "guid": "7377047be99949329b071776b23972a2.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.381158,
+                    22.574489
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "kazi nazrul islam mural",
+                "guid": "7385eeccfdf5474aa0010704f4e84a22.16"
             }
         },
         {
@@ -19840,6 +20096,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.383873,
+                    22.499471
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Garfa Shiva Kali Mandir",
+                "guid": "81fb7f4523df4ae0af6993955fc4ddcf.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.377395,
                     22.648626
                 ]
@@ -20028,6 +20299,21 @@
                 "pogo_type": "stop",
                 "name": "Lord Shani Temple",
                 "guid": "839b71cc991f4e8cb3bd8d0f691a3c4c.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.516768,
+                    22.503119
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Open Gym at GTP",
+                "guid": "83ac31da7a284f1586ef022028fbafb7.16"
             }
         },
         {
@@ -21250,21 +21536,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    88.451416,
-                    22.934597
-                ]
-            },
-            "properties": {
-                "pogo_type": "stop",
-                "name": "St. George's Church",
-                "guid": "91af84e89f9a433996bcd4ec66297eaa.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     88.371569,
                     22.581423
                 ]
@@ -21978,6 +22249,21 @@
                 "pogo_type": "stop",
                 "name": "Roadside Statue Depicting War Scene ",
                 "guid": "98957cc2cb4148fab1049a4bf688a81c.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.397402,
+                    22.625625
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "choto kali bari",
+                "guid": "98ec26dce67f43329ed38fe13bdcbc22.16"
             }
         },
         {
@@ -23680,6 +23966,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.396396,
+                    22.888961
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Chinsurah Bus Stand Water Tank",
+                "guid": "ad7584671b1748ebb2fbb8ddc2c04a79.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.41619,
                     22.558302
                 ]
@@ -23958,6 +24259,21 @@
                 "pogo_type": "stop",
                 "name": "Sri Sri Shiv and Bajrang Bali Mandir",
                 "guid": "b191f27c21264248a8475d72a4aa74f7.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.464754,
+                    22.965488
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Railways Children's Park",
+                "guid": "b19ca69bb9f3415aae4f3f3c0b253d09.16"
             }
         },
         {
@@ -24310,6 +24626,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.412027,
+                    22.559063
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Jal Vayu Vihar Central Park",
+                "guid": "b6c831d4c2f44e8ca5205c647ba8f2a5.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.403883,
                     22.568544
                 ]
@@ -24505,6 +24836,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.465242,
+                    22.880015
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "shree sani mandir",
+                "guid": "b84e2893fc5d45729139df41733e7212.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.386682,
                     22.722208
                 ]
@@ -24528,6 +24874,21 @@
                 "pogo_type": "stop",
                 "name": "Nazrul Shotobarshiki Sodon",
                 "guid": "b88c452130d04211b06369c9a2fcaa30.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.394677,
+                    22.831751
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Rabindranath Tagore Mural",
+                "guid": "b88ed61eeed34e1ba87cacba7dd67519.16"
             }
         },
         {
@@ -24693,6 +25054,21 @@
                 "pogo_type": "stop",
                 "name": "Athpur Water Tank",
                 "guid": "ba016714a42244a283420602646d4f83.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.424147,
+                    22.952317
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Shri Shri Shani Mandir",
+                "guid": "ba194b6d2d8b49e0bd4bc50b37f8a0d2.16"
             }
         },
         {
@@ -26710,6 +27086,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.381999,
+                    22.550779
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Rishi Aurobindo Statue",
+                "guid": "cd32dc9b19be4f5e825b44f116d1805a.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.348008,
                     22.547326
                 ]
@@ -26883,6 +27274,21 @@
                 "pogo_type": "stop",
                 "name": "Maa Kali Temple",
                 "guid": "cebcd8b19b14451eb23dcc16776ec59c.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.38409,
+                    22.836513
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "power House Mosque",
+                "guid": "cec0a11f40da4a669333518f4098707f.16"
             }
         },
         {
@@ -27138,21 +27544,6 @@
                 "pogo_type": "stop",
                 "name": "Sherabali Temple",
                 "guid": "d0a94ef6dd774d849aea941d4d78370a.16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88.393295,
-                    22.886034
-                ]
-            },
-            "properties": {
-                "pogo_type": "stop",
-                "name": "Shiv Mandir",
-                "guid": "d139fe75aa1d4890a0a668fa6294ae96.16"
             }
         },
         {
@@ -28008,6 +28399,21 @@
                 "pogo_type": "stop",
                 "name": "Nanna Kali Mandir",
                 "guid": "da79bf52cd7c4f4ea10551d252bda3c7.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.465291,
+                    22.968231
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Guruchand Park",
+                "guid": "da79e27e28ef4514a4004c9f31519ee0.16"
             }
         },
         {
@@ -29050,6 +29456,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.380553,
+                    22.846497
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Om Shiv Temple ",
+                "guid": "e7697798461f444d9b5ff884e46b1028.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.257517,
                     22.696207
                 ]
@@ -29425,6 +29846,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    88.458104,
+                    22.962333
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Khudiram Bose Uddyan",
+                "guid": "ebb351fa97dd475b80a024e46bd5c7ce.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     88.381681,
                     22.502751
                 ]
@@ -29463,6 +29899,21 @@
                 "pogo_type": "stop",
                 "name": "Kavi Nazrul Islam Sishu Uddyan ",
                 "guid": "ec67c7fe7b9043e4962fdb7a0da1435a.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.364834,
+                    22.472911
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Sakti Sangha Goutam Chattopadhyay Mancha",
+                "guid": "ec68b5d170ba4ded943a93c3f7c0f73d.16"
             }
         },
         {
@@ -30393,6 +30844,21 @@
                 "pogo_type": "stop",
                 "name": "The Pillar Fountains",
                 "guid": "f69cfa3856de40e6b9e0cc1b69593127.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.418064,
+                    22.886457
+                ]
+            },
+            "properties": {
+                "pogo_type": "stop",
+                "name": "Temple of The Lord Shiva",
+                "guid": "f6a483f4d2444cb69a68254e4dcbd2a7.16"
             }
         },
         {
